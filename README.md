@@ -1,4 +1,4 @@
-# Movie Recommendation System (Group 47)
+# Movie Recommendation System 
 
 This repository contains the Movie Recommendation System implemented in Java.
 
